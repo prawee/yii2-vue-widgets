@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-	"yiisoft/yii2": ">2.0.10",
+	"yiisoft/yii2": ">=2.0.10",
 	"prawee/yii2-vuejs": "dev-master",
 	"bower-asset/vue-drag-and-drop": "^2.2.0"
     },
