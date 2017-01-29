@@ -13,7 +13,7 @@
     "require": {
 	"yiisoft/yii2": ">=2.0.10",
 	"prawee/yii2-vuejs": "dev-master",
-	"bower-asset/vue-drag-and-drop-list": "*"
+	"npm-asset/vue-drag-and-drop-list": "^2.2.0"
     },
     "autoload": {
 	"psr-4": {
