@@ -1,0 +1,23 @@
+{
+    "name": "prawee/yii2-vue-widgets",
+    "description": "Widgets Collections via Vue.js for Yii2 Framework",
+    "type": "widgets",
+    "keywords": ["yii2","widgets","vue","vuejs"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prawee Wongsa",
+            "email": "konkeanweb@gmail.com"
+        }
+    ],
+    "require": {
+	"yiisoft/yii2": ">2.0.10",
+	"prawee/yii2-vuejs": "dev-master",
+	"bower-asset/vue-drag-and-drop": "^2.2.0"
+    },
+    "autoload": {
+	"psr-4": {
+		"prawee\\vue\\widgets\\":""
+	}
+    }
+}
