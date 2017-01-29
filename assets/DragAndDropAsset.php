@@ -6,7 +6,7 @@
  * @author Prawee Wongsa <konkeanweb@gmail.com>
  * @license BSD-3-Clause
  */
-namespace prawee\vue\widgets;
+namespace prawee\vue\widgets\assets;
 
 use yii\web\AssetBundle;
 
