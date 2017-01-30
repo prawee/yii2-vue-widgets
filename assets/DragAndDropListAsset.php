@@ -10,7 +10,7 @@ namespace prawee\vue\widgets\assets;
 
 use yii\web\AssetBundle;
 
-class DragAndDropAsset extends AssetBundle
+class DragAndDropListAsset extends AssetBundle
 {
     public $sourcePath = '@npm/vue-drag-and-drop-list/dist';
 
