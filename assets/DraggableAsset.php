@@ -12,10 +12,11 @@ use yii\web\AssetBundle;
 
 class DraggableAsset extends AssetBundle
 {
-    public $sourcePath = '@npm/vuedraggable/dist';
+    public $sourcePath = '@npm';
 
     public $js = [
-        'vuedraggable.js',
+        'sortablejs/Sortable.js',
+        'vuedraggable/dist/vuedraggable.js',
     ];
     public $depends = [
         'prawee\vuejs\VueJsAsset',
